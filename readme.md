@@ -1,6 +1,6 @@
-# listr-update-renderer [![Build Status](https://travis-ci.org/SamVerschueren/listr-update-renderer.svg?branch=master)](https://travis-ci.org/SamVerschueren/listr-update-renderer)
+# listr-update-renderer [![Build Status](https://travis-ci.org/mr5/listr-overwrite-renderer.svg?branch=master)](https://travis-ci.org/SamVerschueren/listr-update-renderer)
 
-> [Listr](https://github.com/SamVerschueren/listr) update renderer
+> [Listr](https://github.com/SamVerschueren/listr) overwrite renderer
 
 <img src="screenshot.gif" />
 
@@ -8,14 +8,14 @@
 ## Install
 
 ```
-$ npm install --save listr-update-renderer
+$ npm install --save listr-overwrite-renderer
 ```
 
 
 ## Usage
 
 ```js
-const UpdaterRenderer = require('listr-update-renderer');
+const UpdaterRenderer = require('listr-overwrite-renderer');
 const Listr = require('listr');
 
 const list = new Listr([

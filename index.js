@@ -1,5 +1,5 @@
 'use strict';
-const logUpdate = require('log-update');
+const logUpdate = require('terminal-overwrite');
 const chalk = require('chalk');
 const figures = require('figures');
 const indentString = require('indent-string');
