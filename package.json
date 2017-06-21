@@ -1,7 +1,7 @@
 {
   "name": "listr-overwrite-renderer",
-  "version": "0.4.0",
-  "description": "Listr update renderer",
+  "version": "0.4.1",
+  "description": "Listr overwrite renderer",
   "license": "MIT",
   "repository": "mr5/listr-overwrite-renderer",
   "author": {
